@@ -20,3 +20,9 @@ colors.push("green");
 
 // Log the array to the console
 console.log(colors);
+
+// Define an object and add a property to it
+let person = {
+  name: "John",
+  age: 30,
+};
